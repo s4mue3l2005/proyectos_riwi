@@ -8,7 +8,7 @@ CLAVE_TRABAJADOR = "clave123"
 
 def iniciar_sistema():
     while True:
-        print("\n🚀 BIENVENIDO A LA TIENDA DE TECNOLOGÍA")
+        print("\n BIENVENIDO A LA TIENDA DE TECNOLOGÍA")
         print("1. Soy Cliente")
         print("2. Soy Trabajador")
         print("3. Salir")
